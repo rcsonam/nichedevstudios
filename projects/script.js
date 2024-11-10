@@ -24,7 +24,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "NicheDev Studios";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
     });
